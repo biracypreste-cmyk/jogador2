@@ -1,0 +1,5 @@
+{
+  "name": "REDX - Spatial Streaming",
+  "description": "A VisionOS-inspired premium streaming platform featuring a spatial UI with floating glass panels, volumetric lighting, and deep cinematic immersion.",
+  "requestFramePermissions": []
+}
